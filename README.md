@@ -1,0 +1,2 @@
+# ogrenciler
+"Öğrenciler" reposu, Acık Üniversite'nin mezunlarının ve aktif öğrencilerinin profesyonel profillerini sergileyebilecekleri bir platformdur. Bu repo, öğrencilerin CV'lerine ekleyebilecekleri kişisel ve akademik bilgilerini, projelerini ve becerilerini içeren sayfaları içerir. Amacımız, öğrencilerimizin ve mezunlarımızın profesyonel görünürlüğünü artırmak ve kariyer fırsatlarına erişimlerini kolaylaştırmaktır.
