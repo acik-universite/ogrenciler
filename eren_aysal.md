@@ -1,8 +1,8 @@
-# Omer Guzelaydin
+# Eren Aysal
 
 
-- **Email:** Omrgzlaydn@gmail.com		 
-- **GitHub:** [www.github.com/omergzlaydn](www.github.com/omergzlaydn)
+- **Email:** aysaleren01@gmail.com		 
+- **GitHub:** [www.github.com/erenaysal](www.github.com/erenaysal)
 
 
 ## Öğrenci Olarak Alınan Dersler
